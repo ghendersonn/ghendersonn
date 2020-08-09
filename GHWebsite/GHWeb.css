@@ -119,12 +119,11 @@
     line-height: normal;
   }
   .Me {
-    height: 250px;
+    height: 300px;
     margin-left: 50px;
     margin-top: 100px;
     border-radius: 150px;
     width: 250px;
-    image-rendering: auto;
   }
   .card {
     margin-left: 15px;
