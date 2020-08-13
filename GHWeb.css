@@ -134,7 +134,7 @@
     text-align: left;
     background: #fff;
     border: 4px double #ccc;
-    border-radius: 6px;
+    border-radius: 4px;
     float: left;
   }
   .clearfix{
@@ -151,7 +151,7 @@
     text-align: left;
     background: #fff;
     border: 4px double #ccc;
-    border-radius: 6px;
+    border-radius: 4px;
     float: right;
   }
   .top {
