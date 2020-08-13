@@ -130,8 +130,7 @@
     width: 600px;
     margin-bottom: 20px;
     height: 600px;
-    padding: 5px 7px;
-    
+    padding: 10px;
     text-align: left;
     background: #fff;
     border: 4px double #ccc;
@@ -144,12 +143,11 @@
   clear: both;
   }
   .cards {
-    margin-right: 15px;
-    width: 500px;
+    margin-right: 55px;
+    width: 600px;
     margin-bottom: 20px;
     height: 600px;
-    padding: 20px 40px 0px;
-    max-width: 500px;
+    padding: 10px;
     text-align: left;
     background: #fff;
     border: 4px double #ccc;
