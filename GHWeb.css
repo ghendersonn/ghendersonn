@@ -126,7 +126,7 @@
     width: 300px;
   }
   .card {
-    margin-left: 25px;
+    margin-left: 75px;
     width: 600px;
     margin-bottom: 20px;
     height: 600px;
@@ -135,6 +135,7 @@
     background: #fff;
     border: 4px double #ccc;
     border-radius: 4px;
+    float: left;
   }
   .clearfix{
   content: "";
@@ -142,7 +143,7 @@
   clear: both;
   }
   .cards {
-    margin-right: 25px;
+    margin-right: 75px;
     width: 600px;
     margin-bottom: 20px;
     height: 600px;
