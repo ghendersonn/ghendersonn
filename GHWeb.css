@@ -120,7 +120,7 @@
   }
   .Me {
     height: 400px;
-    margin-left: 135px;
+    margin-left: 300px;
     margin-top: 50px;
     border-radius: 150px;
     width: 300px;
@@ -131,34 +131,21 @@
     box-shadow: white 5px 5px 5px;
   }
   .card {
-    margin-left: 4%;
-    width: 600px;
+    margin-left: 15%;
+    width: 70%;
     margin-bottom: 20px;
-    height: 600px;
+    height: 1200px;
     padding: 10px;
     text-align: left;
     background: #fff;
     border:black;
     border-radius: 4px;
-    float: left;
+    
   }
   .clearfix{
   content: "";
   display: block; 
   clear: both;
-  }
-  .cards {
-    margin-right: 4%;
-    width: 600px;
-    margin-bottom: 20px;
-    height: 600px;
-    padding: 10px;
-    text-align: left;
-    background: #fff;
-    border: black;
-    border-radius: 4px;
-    float: right;
-    position: sticky;
   }
   .top {
     color: black
@@ -179,10 +166,16 @@
 }
 .go {
   padding: 100px;
-  Margin-left:50px;
+  padding-left: 100px;
+}
+.caption {
+  font-weight: bold;
 }
 .heade {
   list-style-type: none;
   float: left;
   color: black;
+  font-weight: 900;
+  
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
