@@ -125,6 +125,11 @@
     border-radius: 150px;
     width: 300px;
   }
+  .card:hover,
+  .cards:hover
+  {
+    box-shadow: white 5px 5px 5px;
+  }
   .card {
     margin-left: 4%;
     width: 600px;
@@ -133,7 +138,7 @@
     padding: 10px;
     text-align: left;
     background: #fff;
-    border: 4px double #ccc;
+    border:black;
     border-radius: 4px;
     float: left;
   }
@@ -150,9 +155,10 @@
     padding: 10px;
     text-align: left;
     background: #fff;
-    border: 4px double #ccc;
+    border: black;
     border-radius: 4px;
     float: right;
+    position: sticky;
   }
   .top {
     color: black
@@ -170,4 +176,13 @@
   background: linear-gradient(180deg, black, transparent),
               white;
               padding-top: 50px;
+}
+.go {
+  padding: 100px;
+  Margin-left:50px;
+}
+.heade {
+  list-style-type: none;
+  float: left;
+  color: black;
 }
