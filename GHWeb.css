@@ -109,7 +109,7 @@
     color: gray;
   }
   .nav a:hover {
-    color: gray;
+    color: lightskyblue;
   }
   .About {
     display: block;
@@ -181,7 +181,7 @@
 .heade {
   list-style-type: none;
   float: left;
-  color: lightslategray;
+  color: black;
   font-weight: 900;
   font-family: Georgia, 'Times New Roman', Times, serif;
 }
@@ -198,4 +198,9 @@
   right: 5rem;
   height: 200px;
   width: 200px;
+}
+.highlight:hover {
+  color: rgba(99, 0, 99, 0.808);
+  text-shadow: rgba(99, 0, 99, 0.808) 2px 2px 5px;
+  font-weight: bold;
 }
