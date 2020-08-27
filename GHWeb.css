@@ -6,7 +6,7 @@
     margin: 0;
     padding: 0;
     color: #222;
-    background: black;
+    background: white;
     max-width: 100%;
     text-align: center;
   }
@@ -203,4 +203,14 @@
   color: rgba(99, 0, 99, 0.808);
   text-shadow: rgba(99, 0, 99, 0.808) 2px 2px 5px;
   font-weight: bold;
+}
+.flex {
+  background: linear-gradient(black, white)
+}
+.social {
+  background: white;
+  margin-top: 150px;
+}
+.copyright {
+  color: black;
 }
