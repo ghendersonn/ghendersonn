@@ -177,7 +177,11 @@
   font-weight: bold;
 }
 .go {
-  padding-top: 4rem;
+  padding-top: 8rem;
+  width: 30rem;
+  margin-left: 15rem;
+  line-height: 2.5rem;
+  font-weight: 600;
 }
 .heade {
   list-style-type: none;
