@@ -20,6 +20,7 @@
     font-weight: 1000;
     font-size: 3rem;
     font-family: helvetica;
+    padding-top: 2rem;
   }
   h2 {
     text-align: center;
@@ -31,10 +32,10 @@
   }
   header {
     background: 
-               black url(IMG_0258.PNG) no-repeat left/contain;
-    background-size: 100% 130%;
+               black url(matt-sclarandis-yH9IIxdaysM-unsplash.jpg) no-repeat left/contain;
+    background-size: 100% 100%;
     padding-top: 50px;
-    height: 62rem;
+    height: 60rem;
     line-height: 1;
     overflow: hidden;
   }
@@ -130,7 +131,7 @@
   }
   .container {
     text-align: center;
-    
+    margin-top: 50px;    
   }
   .card:hover,
   .cards:hover
@@ -205,7 +206,8 @@
   font-weight: bold;
 }
 .flex {
-  background: linear-gradient(black, white)
+  background: linear-gradient(rgba(0, 0, 0, 0.945), white);
+  padding-top: 50px;
 }
 .social {
   background: white;
