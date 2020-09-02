@@ -13,6 +13,7 @@
   p {
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times;
+    padding-right: 30px;
   }
   h1 {
     text-align: center;
@@ -177,6 +178,7 @@
 }
 .caption {
   font-weight: bold;
+  text-align: center;
 }
 .go {
   display: inline-block;
