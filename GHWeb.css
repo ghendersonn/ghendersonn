@@ -132,6 +132,7 @@
   .container {
     text-align: center;
     margin-top: 50px;    
+    
   }
   .card:hover,
   .cards:hover
@@ -144,7 +145,6 @@
     margin-bottom: 20px;
     height: 1200px;
     padding: 10px;
-    text-align: center;
     background: #fff;
     border:black;
     border-radius: 4px;
@@ -177,10 +177,11 @@
   font-weight: bold;
 }
 .go {
-  padding-top: 8rem;
-  width: 30rem;
-  margin-left: 15rem;
+  display: inline-block;
+  width: 37rem;
+  padding-right: 6.7rem;
   line-height: 2.5rem;
+  padding-top: 70px;
   font-weight: 600;
 }
 .heade {
