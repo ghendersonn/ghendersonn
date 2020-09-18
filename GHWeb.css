@@ -225,8 +225,8 @@
 }
 
 h1::before {
-    content:"";
+    content:" ";
     background-color: gray;
-    height:2px;
+    height:20px;
     width:10px;
 }
