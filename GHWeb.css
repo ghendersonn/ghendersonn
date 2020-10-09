@@ -25,7 +25,6 @@
   }
   h2 {
     text-align: center;
-    text-shadow:lightblue 1.5px 1.5px 2.5px;
     color: lightblue;
     font-weight: normal;
     font-size: 2.5rem;
@@ -126,12 +125,10 @@
     height: 400px;
     border-radius: 150px;
     width: 18rem;
-    text-align: center;
     margin-top: 6rem;
-    margin-left: 0;
+    border: solid  lightgray .6rem;
   }
   .container {
-    text-align: center;
     margin-top: 50px;    
     
   }
@@ -141,10 +138,11 @@
     box-shadow: white 5px 5px 5px;
   }
   .card {
-    margin-left: 15%;
-    width: 70%;
+  
+    margin-left: 20rem;
+    width: 60%;
     margin-bottom: 20px;
-    height: 1200px;
+    height: 60rem;
     padding: 10px;
     background: #fff;
     border:black;
@@ -179,19 +177,19 @@
   text-align: center;
 }
 .go {
-  display: inline-block;
-  width: 40rem;
-  padding-right: 6rem;
+width: 50rem;
+  text-align: center;
+  padding-left: 9rem ;
   line-height: 2.5rem;
   padding-top: 70px;
   font-weight: 500;
+  
 }
 .heade {
-  list-style-type: none;
-  float: left;
-  color: black;
+  color: lightslategray;
   font-weight: 900;
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  letter-spacing: 8px;
 }
 .logo2 {
   position: absolute;
@@ -215,6 +213,7 @@
 .flex {
   background: linear-gradient(rgba(0, 0, 0, .96), white);
   padding-top: 50px;
+ 
 }
 .social {
   background: white;
@@ -222,4 +221,10 @@
 }
 .copyright {
   color: black;
+}
+
+h1::before {
+  height: 3px;
+  background-color: black;
+  width: 10px;
 }
