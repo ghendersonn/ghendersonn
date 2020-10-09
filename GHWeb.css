@@ -224,7 +224,14 @@ width: 50rem;
 }
 
 h1::before {
+<<<<<<< HEAD
   height: 3px;
   background-color: black;
   width: 10px;
+=======
+    content:" ";
+    background-color: gray;
+    height:20px;
+    width:10px;
+>>>>>>> 6eccc0425e10881f70157c82ee0c020e72aae9e1
 }
